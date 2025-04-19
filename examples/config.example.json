@@ -1,0 +1,32 @@
+{
+  "apiKeyRateLimit": {
+    "maxAttempts": 3,
+    "timeWindowHours": 1
+  },
+  "ais": {
+    "grok": {
+      "endpoint": "https://api.x.ai/v1/chat/completions",
+      "payload": {
+        "messages": [],
+        "model": "grok-3-mini-beta",
+        "stream": false,
+        "temperature": 0
+      },
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    "chatgpt": {
+      "endpoint": "https://api.openai.com/v1/chat/completions",
+      "payload": {
+        "messages": [],
+        "model": "omni-moderation-latest",
+        "stream": false,
+        "temperature": 0
+      },
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
+}
