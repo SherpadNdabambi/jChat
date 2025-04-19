@@ -270,7 +270,7 @@ Distributed under the MIT License. See [LICENSE][License url] for more informati
 [Node.js url]: https://nodejs.org/
 [npm url]: https://www.npmjs.com/
 [Scan QR code screenshot url]: ./assets/img/scan-qr-code-screenshot.png
-[changelog url]: ./CHANGELOG
+[changelog url]: ./CHANGELOG.md
 [Personal website url]: https://sherpadndaabmbi.github.io/
 [Email address]: mailto:sgndabambi@gmail.com
 [Website icon url]: ./assets/img/website-ui-web-svgrepo-com.svg
