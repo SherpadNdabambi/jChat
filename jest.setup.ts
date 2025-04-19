@@ -17,7 +17,7 @@ const mockConfig: Config = {
     chatgpt: {
       endpoint: "https://api.openai.com/v1/chat/completions",
       payload: {
-        model: "omni-moderation-latest",
+        model: "gpt-4.1-nano",
         messages: [],
         temperature: 0,
       },
