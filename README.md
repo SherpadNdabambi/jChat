@@ -62,6 +62,7 @@ A WhatsApp bot that lets users chat with AI models like Grok and ChatGPT.
 ### Built With
 
 [![Node.js shield][Node.js shield url]][Node.js url]
+[![Typescript][Typescript shield url]][Typescript url]
 
 <div align=right>
 
@@ -100,7 +101,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-1. [Node.js 18+][Node.js url].
+1. [Node.js 20+][Node.js url].
 1. [npm][npm url].
 1. The TypeScript compiler.
 
@@ -268,6 +269,8 @@ Distributed under the MIT License. See [LICENSE][License url] for more informati
 [jChat url]: https://github.com/SherpadNdabambi/jChat
 [Node.js shield url]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
 [Node.js url]: https://nodejs.org/
+[Typescript shield url]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[Typescript url]: https://www.typescriptlang.org/
 [npm url]: https://www.npmjs.com/
 [Scan QR code screenshot url]: ./assets/img/scan-qr-code-screenshot.png
 [changelog url]: ./CHANGELOG.md
