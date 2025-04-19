@@ -1,5 +1,5 @@
 // Jest configuration for running tests in a TypeScript project
-module.exports = {
+export default {
   preset: "ts-jest", // Use ts-jest preset for TypeScript support
   testEnvironment: "node", // Run tests in a Node.js environment
   roots: ["<rootDir>/tests"], // Look for tests in the 'tests' directory
